@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.victorrentea.slf4plugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.victorrentea.slf4plugin.MyBundle
 
 class MyApplicationService {
 
